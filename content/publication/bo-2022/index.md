@@ -9,5 +9,15 @@ publication_types:
 - article-journal
 publication: '*Journal of Physical Oceanography*'
 
+# Display this page in the Featured widget?
+featured: true
+
 url_pdf: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---
