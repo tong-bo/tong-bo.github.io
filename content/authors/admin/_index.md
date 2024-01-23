@@ -115,5 +115,5 @@ I am currently a Postdoctoral Scholar in the Atmospheric and Oceanic Sciences De
 
 Email: tbo@atmos.ucla.edu.
 
-I study coastal and estuarine fluid dynamics using a combination of computational and observational methods. My research focuses on flow processes associated with complex roughness elements in the coastal zone, including topographic and bathymetric features and vegetation. I aim to understand the impacts of these processes on oceanic boundary layer turbulence, salinity and temperature dynamics, and material transport, as well as their implications for the development of sustainable solutions.
+I study coastal and estuarine fluid dynamics using a combination of computational and observational methods. My research focuses on flow processes associated with complex roughness elements in the coastal ocean, including topographic and bathymetric features and vegetation. I aim to understand the impacts of these processes on oceanic boundary layer turbulence, salinity and temperature dynamics, and material transport, as well as their implications for the development of sustainable solutions.
 {style="text-align: justify;"}
