@@ -91,6 +91,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=ek4vlakAAAAJ&hl=en&oi=aoJ
+  - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Tong-Bo-2
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-6030-0561
