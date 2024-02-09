@@ -22,4 +22,4 @@ image:
   preview_only: false
 ---
 
-© Copyright 2024 [AMS](https://www.ametsoc.org/PUBSCopyrightPolicy)
+© Copyright 2022 [AMS](https://www.ametsoc.org/PUBSCopyrightPolicy)
