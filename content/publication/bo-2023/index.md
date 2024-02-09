@@ -23,3 +23,4 @@ image:
   focal_point: ''
   preview_only: false
 ---
+© Copyright 2023 [AMS](https://www.ametsoc.org/PUBSCopyrightPolicy)

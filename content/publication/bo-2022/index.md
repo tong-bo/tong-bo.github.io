@@ -21,3 +21,5 @@ image:
   focal_point: ''
   preview_only: false
 ---
+
+© Copyright 2024 [AMS](https://www.ametsoc.org/PUBSCopyrightPolicy)
