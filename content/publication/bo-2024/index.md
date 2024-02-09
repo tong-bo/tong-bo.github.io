@@ -14,7 +14,7 @@ publication: '*Journal of Physical Oceanography*'
 publication_short: ''
 
 # abstract: abstract here
-Copyright 2024 AMS (https://www.ametsoc.org/PUBSCopyrightPolicy)
+
 # # Summary. An optional shortened abstract.
 # summary: summary here
 
