@@ -1,5 +1,5 @@
 ---
-title: Macroalgal Farming for Carbon Sequestration
+title: Macroalgal Farming for Carbon Sequestration - Turbulence and Scalar Transport
 summary: We conducted large eddy simulations of suspended  macroalgal farms and investigated their interactions with ocean mixed layer hydridnamics. The presense of farms generates distinct types of turbulence, which has substantial consequences for nutrient supply and macroalgal growth. 
 tags:
   - Macroalgal Farm
