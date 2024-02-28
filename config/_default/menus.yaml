@@ -10,16 +10,17 @@ main:
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 30
+  - name: Projects
+    url: './project/'
+    # url: '#projects'
+    weight: 20
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
   - name: Publications
     url: './publication/'
     # url: '#featured'
-    weight: 20
+    weight: 30
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
@@ -28,4 +29,4 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
-    weight: 30
+    weight: 40

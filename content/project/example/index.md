@@ -1,8 +1,8 @@
 ---
-title: Ocean mixed layer dynamics and offshore macroalgal farms
+title: Offshore macroalgal farms
 summary: Large eddy simulations of suspended  macroalgal farms and their interactions with ocean mixed layer hydridnamics 
 tags:
-  - Deep Learning
+  - Macroalgal Farm
 date: '2023-06-01T00:00:00Z'
 
 # # Optional external URL for project (replaces project detail page).
