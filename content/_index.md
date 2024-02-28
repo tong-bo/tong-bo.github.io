@@ -171,10 +171,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Macroalgal Farm
+        - name: Macroalgal Farms in the Ocean Mixed Layer - Turbulence and Nutrient Transport
           tag: Macroalgal Farm
-        - name: Other
-          tag: Demo
+        - name: Meanders and Increased Flow Resistance - Impacts on Flooding in Coastal and Estuarine Systems
+          tag: Hydrodynamic Drag
+        - name: Estuarine Salinity Dynamics - Frontogenesis, Mixing, and Stratification 
+          tag: Estuarine Salinity Dynamics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

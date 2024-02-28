@@ -1,6 +1,6 @@
 ---
-title: Offshore macroalgal farms
-summary: Large eddy simulations of suspended  macroalgal farms and their interactions with ocean mixed layer hydridnamics 
+title: Macroalgal Farming for Carbon Sequestration
+summary: We conducted large eddy simulations of suspended  macroalgal farms and investigated their interactions with ocean mixed layer hydridnamics. The presense of farms generates distinct types of turbulence, which has substantial consequences for nutrient supply and macroalgal growth. 
 tags:
   - Macroalgal Farm
 date: '2023-06-01T00:00:00Z'
@@ -41,4 +41,3 @@ Distinct Langmuir circulation patterns are generated within various suspended fa
 Canopy shear layer turbulence is also created at the farm edges due to drag discontinuity. 
 The altered hydrodynamic conditions due to the presence of macroalgae can in turn determine nutrient availability, chemical transport, 
 and salinity and temperature conditions in the farms, thereby affecting macroalgal growth. 
-
