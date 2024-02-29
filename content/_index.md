@@ -173,7 +173,7 @@ sections:
           tag: '*'
         - name: Flow-vegetation interaction
           tag: Macroalgal Farm
-        - name: Meanders and hydrodynamic drag
+        - name: Topography-induced drag increase
           tag: Hydrodynamic Drag
         - name: Estuarine salinity dynamics
           tag: Estuarine Salinity Dynamics

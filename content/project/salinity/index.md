@@ -1,6 +1,6 @@
 ---
 title: Estuarine Salinity Dynamics - Frontogenesis, Mixing, and Stratification 
-summary: Small-scale topographic features, like constriction, headlands, and meanders, are important locations for etuarine frontogenesis. These topography-induced fronts in estuaries, sharing similarities with oceanic submesoscale fronts, are usually hotspots of salinity mixing and straining. Moreover, they have the potential to dominate estuarine exchange processes, salt intrusion, and estuarine stratification.
+summary: Small-scale topographic features, like constriction, headlands, and meanders, are important locations for etuarine frontogenesis. These topography-generated fronts in estuaries, sharing similarities with oceanic submesoscale fronts, are usually hotspots of salinity mixing and straining. Moreover, they have the potential to dominate estuarine exchange processes, salt intrusion, and estuarine stratification.
 tags:
   - Estuarine Salinity Dynamics
 date: '2022-06-01T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2022-06-01T00:00:00Z'
 # external_link: ''
 
 image:
-  caption: Topography-induced fronts in the North River estuary in MA, USA. Drone imagery courtesy of Adrian Garcia.
+  caption: Topography-generated fronts in the North River estuary in MA, USA. Drone imagery courtesy of Adrian Garcia.
   focal_point: Smart
 
 # links:
@@ -30,4 +30,4 @@ image:
 # slides: example
 ---
 
-Small-scale topographic features, like constriction, headlands, and meanders, are important locations for etuarine frontogenesis. These topographically induced fronts in estuaries, sharing similarities with oceanic submesoscale fronts, are usually hotspots of salinity mixing and straining. Moreover, they have the potential to dominate estuarine exchange processes, salt intrusion, and estuarine stratification.
+Small-scale topographic features, like constriction, headlands, and meanders, are important locations for etuarine frontogenesis. These topography-generated fronts in estuaries, sharing similarities with oceanic submesoscale fronts, are usually hotspots of salinity mixing and straining. Moreover, they have the potential to dominate estuarine exchange processes, salt intrusion, and estuarine stratification.
