@@ -41,3 +41,5 @@ Distinct Langmuir circulation patterns are generated within various suspended fa
 Canopy shear layer turbulence is also created at the farm edges due to drag discontinuity. 
 The altered hydrodynamic conditions due to the presence of macroalgae can in turn determine nutrient availability, chemical transport, 
 and salinity and temperature conditions in the farms, thereby affecting macroalgal growth. 
+
+Bo, T., McWilliams, J. C., & Chamecki, M. (under review at Journal of Fluid Mechanics). Langmuir turbulence in suspended kelp farms.

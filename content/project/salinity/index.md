@@ -31,3 +31,6 @@ image:
 ---
 
 Small-scale topographic features, like constriction, headlands, and meanders, are important locations for etuarine frontogenesis. These topography-generated fronts in estuaries, sharing similarities with oceanic submesoscale fronts, are usually hotspots of salinity mixing and straining. Moreover, they have the potential to dominate estuarine exchange processes, salt intrusion, and estuarine stratification.
+
+Bo, T., Ralston, D. K., Garcia A. M. P., & Geyer, W. R. (2024). Surface convergence and mixing in an estuary with complex topography. Journal of Physical Oceanography, 54(3), 653-677.
+Bo, T. & Ralston, D. K. (2022). Frontogenesis, mixing, and stratification in estuarine channels with curvature. Journal of Physical Oceanography, 52(7), 1333-1350.
