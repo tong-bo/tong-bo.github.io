@@ -44,4 +44,6 @@ and salinity and temperature conditions in the farms, thereby affecting macroalg
 
 Reference(s):
 
-Bo, T., McWilliams, J. C., & Chamecki, M. (under review at Journal of Fluid Mechanics). Langmuir turbulence in suspended kelp farms.
+Bo, T., McWilliams, J. C., Yan, C., & Chamecki, M. (2024). Langmuir turbulence in suspended kelp farms. Journal of Fluid Mechanics
+
+Bo, T., McWilliams, J. C., Frieder, C. A., Davis, K. A., & Chamecki, M. (under review at Geophysical Research Letters). Nutrient Replenishment by Turbulent Mixing in Suspended Macroalgal Farms.
