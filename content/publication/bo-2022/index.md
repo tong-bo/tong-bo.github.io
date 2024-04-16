@@ -3,7 +3,7 @@ title: Frontogenesis, mixing, and stratification in estuarine channels with curv
 authors:
 - Tong Bo
 - David K Ralston
-date: '2022-01-01'
+date: '2022-07-01'
 publishDate: '2024-01-22T19:17:51.708656Z'
 publication_types:
 - article-journal
