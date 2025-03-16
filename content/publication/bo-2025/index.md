@@ -13,7 +13,7 @@ publication: '*Journal of Fluid Mechanics*'
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1017/jfm.2025.68'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
